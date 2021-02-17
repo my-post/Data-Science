@@ -16,13 +16,18 @@ need numpy for the mathematical calculation of the working with dataset and matr
 would need pandas which have many inbuilt functions to help performing various kinds of slices
 and selections. Matplotlib and seaborn will be used for visualizations and sklearn has important
 libraries related to applying algorithms.
+
 2.) Preprocessing the dataset will include checking for missing values, handling outliers, splitting
 the dataset into training and test dataset.
+
 3.) The categorical data needs to be converted to integer type to classify the dataset using label
 encoder from the preprocessing library.
+
 4.) After completing the preprocessing we analyze the dataset to gain inferences and use matplot
 and seaborn library to visualize the data.
+
 5.) We choose the algorithms to be used for classification as per our dataset and apply them using
 the inbuilt libraries of python.
+
 6.) We analyze our classification algorithm using the precision, recall, accuracy and f1 score of the
 model and compare the different algorithms used according to their performance.
